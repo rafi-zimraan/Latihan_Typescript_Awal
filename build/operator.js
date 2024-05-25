@@ -1,0 +1,15 @@
+"use strict";
+let penjumlahan1 = 20;
+let penjumlahan2 = 15;
+let jumlah = penjumlahan1 + penjumlahan2;
+console.log('penjumlahan', jumlah);
+let jumlah2 = penjumlahan1 - penjumlahan2;
+console.log('pengurangan', jumlah2);
+let jumlah3 = penjumlahan1 / penjumlahan2;
+console.log('pembagian', jumlah3);
+let jumlah4 = penjumlahan1 * penjumlahan2;
+console.log('pembagian', jumlah4);
+let jumlah5 = Math.pow(penjumlahan1, penjumlahan2);
+console.log('pangkat', jumlah5);
+let jumlah6 = penjumlahan1 % penjumlahan2;
+console.log('sisa bagi', jumlah6);
